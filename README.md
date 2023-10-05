@@ -1,6 +1,6 @@
 # Mini-Transat Modelboot CAD Repository
 
-![Mini-Transat Modelboot](main/model sail boat v41.png)
+![Mini-Transat Modelboot](model sail boat v41.png)
 
 Welkom bij de Git-repository van het CAD-model voor de Mini-Transat modelboot! Dit CAD-model is het resultaat van mijn werk tijdens mijn minor, waarin ik deze op afstand bestuurbare Mini-Transat-klasse boot heb ontworpen. De boot is gemaakt van glasvezel en beschikt over een zwenkkiel, dubbel roer, een vleugelzeil en een zwaard. In deze repository vind je alle bestanden en documentatie met betrekking tot dit project.
 
